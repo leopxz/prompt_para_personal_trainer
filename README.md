@@ -185,7 +185,7 @@ O treino deve focar em:</strong><br>
 ### Peso e Altura<br>
 <strong>Objetivo: Usar o peso e a altura para ajustar a intensidade e o volume do treino, garantindo que o plano seja adequado às necessidades corporais do cliente.</strong><br>
 
-<strong>Peso:</strong>
+<strong>Peso:</strong><br>
 <strong>Peso Abaixo da Média:</strong> Ajustar o volume e intensidade para promover o ganho de massa muscular e evitar sobrecarga.<br>
 <strong>Peso na Média:</strong> Ajustar o plano conforme o biotipo e os objetivos do cliente, mantendo um equilíbrio entre força e cardio.<br>
 <strong>Peso Acima da Média:</strong> Incorporar exercícios cardiovasculares e ajustar o volume de treino para apoiar a perda de gordura e melhorar a resistência.<br>
