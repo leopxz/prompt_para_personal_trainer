@@ -172,12 +172,12 @@ O treino deve focar em:</strong><br>
 	
 ### <strong>Endomorfo:</strong> 
 <strong>Corpo com tendência a acumular gordura e dificuldade em perder peso.<br>
-O treino deve focar em:</strong></br>
+O treino deve focar em:</strong><br>
 
-<strong>Cardio Intenso:</strong> Incorporar mais exercícios cardiovasculares e HIIT para aumentar o gasto calórico e promover a queima de gordura.<br>
-
-<strong>Treino de Força:</strong> Incluir exercícios de resistência para manter a massa muscular e apoiar a queima de gordura.<br>
-
+<strong>Cardio Intenso:</strong> Incorporar mais exercícios cardiovasculares e HIIT para aumentar o gasto calórico e promover a queima de gordura.
+<br>
+<strong>Treino de Força:</strong> Incluir exercícios de resistência para manter a massa muscular e apoiar a queima de gordura.
+<br>
 <strong>Volume e Frequência:</strong> Aumentar a frequência e o volume de treino para maximizar o gasto energético.
 
 
@@ -240,20 +240,20 @@ O que adicionar:</strong><br>
 
  ## Objetivos do Cliente<br>
 <strong>Objetivo: Adaptar o plano de treino para alinhar com os objetivos específicos do cliente.<br>
-O que adicionar:</strong>
-<br>
+O que adicionar:</strong><br>
+
 <strong>Perda de Peso:</strong><br>
 <strong>Estrutura:</strong> Focar em treinos com alta queima calórica, como HIIT e sessões prolongadas de cardio.<br>
-<strong>Exercícios:</strong> Incluir movimentos que engajem grandes grupos musculares e aumentem o metabolismo.
-<br>
+<strong>Exercícios:</strong> Incluir movimentos que engajem grandes grupos musculares e aumentem o metabolismo.<br>
+
 <strong>Ganho de Massa Muscular:</strong><br>
 <strong>Estrutura:</strong> Priorizar exercícios de resistência e treinos com pesos livres e máquinas.<br>
-<strong>Exercícios:</strong> Focar em exercícios compostos e técnicas avançadas como drop sets e supersets.
-<br>
+<strong>Exercícios:</strong> Focar em exercícios compostos e técnicas avançadas como drop sets e supersets.<br>
+
 <strong>Aumento de Resistência:</strong><br>
 <strong>Estrutura:</strong> Combinar cardio prolongado com treinamento funcional.<br>
-<strong>Exercícios: </strong>Incluir exercícios de resistência com altas repetições e períodos mais longos de atividade cardiovascular.
-<br>
+<strong>Exercícios: </strong>Incluir exercícios de resistência com altas repetições e períodos mais longos de atividade cardiovascular.<br>
+
 <strong>Melhoria na Mobilidade e Flexibilidade:</strong><br>
 <strong>Estrutura:</strong> Incorporar sessões de alongamento, yoga e exercícios de mobilidade.<br>
 <strong>Exercícios:</strong> Focar em movimentos que aumentem a amplitude de movimento e reduzam rigidez.<br>
@@ -264,29 +264,29 @@ O que adicionar:</strong>
 
 <strong>Iniciante:</strong><br>
 <strong>Estrutura:</strong> Introduzir exercícios básicos e técnicas fundamentais.<br>
-<strong>Exercícios:</strong> Incluir exercícios com baixa complexidade e foco em forma correta.
-<br>
+<strong>Exercícios:</strong> Incluir exercícios com baixa complexidade e foco em forma correta.<br>
+
 <strong>Intermediário:</strong><br>
 <strong>Estrutura:</strong> Introduzir variações de exercícios e progressões de carga.<br>
-<strong>Exercícios:</strong> Incluir uma combinação de exercícios compostos e isolados, com aumento gradual da intensidade.
-<br>
+<strong>Exercícios:</strong> Incluir uma combinação de exercícios compostos e isolados, com aumento gradual da intensidade.<br>
+
 <strong>Avançado:</strong><br>
 <strong>Estrutura:</strong> Incorporar técnicas avançadas e variações para maximizar os resultados.<br>
 <strong>Exercícios:</strong> Utilizar técnicas como supersets, drop sets, e treinamento em pirâmide.<br>
 
-6. ## Limitações Físicas e Lesões<br>
+ ## Limitações Físicas e Lesões<br>
 <strong>Objetivo:Ajustar o plano para acomodar limitações físicas e lesões do cliente.<br>
 O que adicionar:</strong><br>
 
 <strong>Lesões Recorrentes:</strong><br>
 <strong>Estrutura:</strong> Adaptar os exercícios para evitar agravamento da lesão.<br>
-<strong>Exercícios:</strong> Incluir exercícios de reabilitação e movimentos modificados que minimizem o impacto na área afetada.
-<br>
+<strong>Exercícios:</strong> Incluir exercícios de reabilitação e movimentos modificados que minimizem o impacto na área afetada.<br>
+
 <strong>Condições Médicas:</strong><br>
 <strong>Estrutura: </strong>Ajustar os exercícios conforme as orientações médicas.<br>
 <strong>Exercícios:</strong>Incorporar atividades seguras e apropriadas para a condição específica do cliente.<br>
 
-7. ## Preferências Pessoais<br>
+ ## Preferências Pessoais<br>
 <strong>Objetivo: Ajustar o plano para alinhar com as preferências do cliente.<br>
 O que adicionar:</strong><br>
 <br>
@@ -298,38 +298,38 @@ O que adicionar:</strong><br>
 <strong>Estrutura:</strong> Ajustar a duração e a intensidade dos treinos conforme o tempo disponível do cliente.<br>
 <strong>Exercícios:</strong> Criar treinos eficientes e compactos se o tempo for limitado.<br>
 
-8. ## Nutrição e Recuperação<br>
-<strong>Objetivo: Complementar o plano de treino com orientações sobre nutrição e recuperação.<br.>
+## Nutrição e Recuperação<br>
+<strong>Objetivo: Complementar o plano de treino com orientações sobre nutrição e recuperação.<br>
 O que adicionar:</strong><br>
 
 <strong>Nutrição:</strong><br>
-<strong>Orientações Gerais:</strong> Oferecer recomendações básicas sobre alimentação balanceada para suportar os objetivos do cliente.<br>
+<strong>Orientações:</strong> Oferecer recomendações básicas sobre alimentação balanceada para suportar os objetivos do cliente.<br>
 <strong>Suplementação:</strong> Considerar sugestões sobre suplementos se apropriado para o objetivo e biotipo.<br>
 
 <strong>Recuperação:</strong><br>
 <strong>Estrutura:</strong> Incluir recomendações para recuperação, como alongamentos, massagens e técnicas de relaxamento.<br>
 <strong>Sono:</strong> Enfatizar a importância de uma boa qualidade de sono para a recuperação muscular e desempenho.<br>
 
-9. ## Avaliação e Progressão<br>
+## Avaliação e Progressão<br>
 <strong>Objetivo: Estabelecer critérios para avaliar e ajustar o plano conforme o progresso do cliente.<br>
 O que adicionar:</strong><br>
 
 <strong>Avaliações Regulares:</strong><br>
 <strong>Estrutura:</strong> Definir pontos de checagem para avaliar o progresso, como testes de força, resistência ou composição corporal.<br>
-<strong>Feedback:</strong> Solicitar feedback do cliente sobre o plano e fazer ajustes conforme necessário.
-<br>
+<strong>Feedback:</strong> Solicitar feedback do cliente sobre o plano e fazer ajustes conforme necessário.<br>
+
 <strong>Ajustes de Treino:</strong><br>
 <strong>Estrutura:</strong> Revisar e ajustar o plano de treino com base nos resultados das avaliações e no progresso observado.<br>
 <strong>Meta de Ajuste:</strong> Fazer alterações para manter o desafio e a eficácia do treino.<br>
 
-10. ## Equipamentos Disponíveis<br>
+ ## Equipamentos Disponíveis<br>
 <strong>Objetivo: Adaptar o plano de treino conforme os equipamentos disponíveis para o cliente.<br>
 O que adicionar:</strong><br>
 
 <strong>Treino em Casa:</strong><br>
 <strong>Estrutura:</strong> Criar planos com exercícios que podem ser feitos com equipamento mínimo ou com o peso do próprio corpo.<br>
-<strong>Exercícios:</strong> Utilizar itens domésticos ou equipamentos básicos como halteres, bandas elásticas, e kettlebells.
-<br>
+<strong>Exercícios:</strong> Utilizar itens domésticos ou equipamentos básicos como halteres, bandas elásticas, e kettlebells.<br>
+
 <strong>Academia Completa:</strong><br>
 <strong>Estrutura:</strong> Aproveitar a variedade de equipamentos disponíveis para um plano mais diversificado.<br>
 <strong>Exercícios:</strong> Incluir o uso de máquinas, pesos livres e acessórios variados para um treino completo e bem equilibrados.
