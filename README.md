@@ -146,11 +146,12 @@ Equipamentos: <br></strong>
 
 ## Regras de Negócio
 
-1. <strong>Biotipo</strong><br>
+### <strong>Biotipo</strong>
 <strong>Objetivo:</strong> Identificar o tipo corporal do cliente para ajustar o plano de treino de acordo com as características específicas de cada biotipo.<br>
 
-<strong>Ectomorfo:</strong> Corpo mais magro, dificuldade em ganhar peso e massa muscular.<br>
- <strong>O treino deve focar em:</strong><br>
+### <strong>Ectomorfo:</strong>
+ <strong>Corpo mais magro, dificuldade em ganhar peso e massa muscular.<br>
+ O treino deve focar em:</strong><br>
 
 <strong>Volume e Intensidade:</strong> Aumentar o volume de treino (número de séries e repetições) e a intensidade (peso usado) para promover o ganho muscular.
 <br>
@@ -159,7 +160,9 @@ Equipamentos: <br></strong>
 <strong>Exercícios Compostos:</strong> Priorizar exercícios compostos (como agachamentos e supinos) que trabalham vários grupos musculares simultaneamente.
 <br>
 
-<strong>Mesomorfo:</strong> Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.<br> O treino deve focar em:<br>
+### <strong>Mesomorfo:</strong>
+ <strong>Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.<br>
+O treino deve focar em:</strong><br>
 
 <strong>Equilíbrio:</strong> Manter um equilíbrio entre treino de força e cardio para maximizar os resultados em ambos os aspectos.
 <br>
@@ -167,8 +170,9 @@ Equipamentos: <br></strong>
 <br>
 <strong>Treinamento de Alta Intensidade:</strong> Incorporar treinos intervalados e técnicas avançadas para maximizar o desempenho.<br>
 	
-<strong>Endomorfo:</strong> Corpo com tendência a acumular gordura e dificuldade em perder peso.<br>
- <strong>O treino deve focar em:</strong></br>
+### <strong>Endomorfo:</strong> 
+<strong>Corpo com tendência a acumular gordura e dificuldade em perder peso.<br>
+O treino deve focar em:</strong></br>
 
 <strong>Cardio Intenso:</strong> Incorporar mais exercícios cardiovasculares e HIIT para aumentar o gasto calórico e promover a queima de gordura.<br>
 
@@ -179,157 +183,156 @@ Equipamentos: <br></strong>
 
  ##  Dias de Treino por Semana
 
-<strong>Objetivo:</strong> Definir a estrutura do treino com base na quantidade de dias disponíveis para treinar.<br>
-<strong>O que adicionar:</strong><br>
+<strong>Objetivo: Definir a estrutura do treino com base na quantidade de dias disponíveis para treinar.<br>
+O que adicionar:</strong><br>
 
 <strong>1 Dia - Treino Full Body:</strong><br>
-Estrutura: Realizar um treino completo que inclua todos os principais grupos musculares.<br>
-Exercícios: Incluir exercícios compostos como agachamento, levantamento terra e supino.<br>
-Volume e Intensidade: Manter um volume moderado para evitar sobrecarga.<br>
+<strong>Estrutura:</strong> Realizar um treino completo que inclua todos os principais grupos musculares.<br>
+<strong>Exercícios:</strong> Incluir exercícios compostos como agachamento, levantamento terra e supino.<br>
+<strong>Volume e Intensidade:</strong> Manter um volume moderado para evitar sobrecarga.<br>
 
 <strong>3 Dias - Treino ABC:</strong><br>
-Estrutura: Dividir o treino em três sessões, focando em grupos musculares específicos a cada dia.<br>
-Dia A: Peito e tríceps<br>
-Dia B: Costas e bíceps<br>
-Dia C: Pernas e ombros<br>
-Recuperação: Garantir um dia de descanso entre treinos para recuperação adequada.<br>
+<strong>Estrutura:</strong> Dividir o treino em três sessões, focando em grupos musculares específicos a cada dia.<br>
+<strong>Dia A:</strong> Peito e tríceps<br>
+<strong>Dia B:</strong> Costas e bíceps<br>
+<strong>Dia C:</strong> Pernas e ombros<br>
+<strong>Recuperação:</strong> Garantir um dia de descanso entre treinos para recuperação adequada.<br>
 
 <strong>5 Dias - Treino ABCDE:</strong><br>
-Estrutura: Dividir o treino em cinco sessões, com foco específico em diferentes grupos musculares.<br>
-Dia A: Peito<br>
-Dia B: Costas<br>
-Dia C: Pernas<br>
-Dia D: Ombros<br>
-Dia E: Braços (bíceps e tríceps)<br>
+<strong>Estrutura:</strong> Dividir o treino em cinco sessões, com foco específico em diferentes grupos musculares.<br>
+<strong>Dia A:</strong> Peito<br>
+<strong> B:</strong> Costas<br>
+<strong>Dia C:</strong> Pernas<br>
+<strong>Dia D:</strong> Ombros<br>
+<strong>Dia E:</strong> Braços (bíceps e tríceps)<br>
 
-<strong>Recuperação:<strong> Considerar uma estrutura que permita recuperação adequada, possivelmente incluindo um dia de descanso ativo.<br>
-
+<strong>Recuperação:</strong> Considerar uma estrutura que permita recuperação adequada, possivelmente incluindo um dia de descanso ativo.<br>
 
  ##  Tipo de Treino
-<strong>Objetivo:</strong> Selecionar o tipo de treino baseado nas preferências e necessidades do cliente.<br>
-<strong>O que adicionar:</strong><br>
+<strong>Objetivo:Selecionar o tipo de treino baseado nas preferências e necessidades do cliente.<br>
+O que adicionar:</strong><br>
 
 <strong>Funcional:</strong><br>
-Objetivo: Melhorar a funcionalidade geral do corpo.<br>
-Exercícios: Incluir movimentos funcionais como agachamentos, flexões e levantamento de kettlebells.<br>
-Estrutura: Incorporar exercícios que simulam atividades diárias e melhoram a estabilidade.<br>
+<strong>Objetivo:</strong> Melhorar a funcionalidade geral do corpo.<br>
+<strong>Exercícios:</strong> Incluir movimentos funcionais como agachamentos, flexões e levantamento de kettlebells.<br>
+<strong>Estrutura:</strong> Incorporar exercícios que simulam atividades diárias e melhoram a estabilidade.<br>
 
 <strong>Maquinário:</strong><br>
-Objetivo: Isolar grupos musculares específicos.<br>
-Exercícios: Utilizar máquinas como leg press, máquina de peck deck, e extensora de pernas.<br>
-Estrutura: Focar em exercícios que permitam uma carga controlada e repetitiva.<br>
+<strong>Objetivo:</strong> Isolar grupos musculares específicos.<br>
+<strong>Exercícios:</strong> Utilizar máquinas como leg press, máquina de peck deck, e extensora de pernas.<br>
+<strong>Estrutura:</strong> Focar em exercícios que permitam uma carga controlada e repetitiva.<br>
 
 <strong>Peso Livre:</strong><br>
-Objetivo: Trabalhar vários grupos musculares simultaneamente.<br>
-Exercícios: Utilizar halteres, barras e kettlebells para exercícios como supino, agachamento e levantamento terra.<br>
-Estrutura: Priorizar exercícios que exijam estabilização e coordenação.<br>
+<strong>Objetivo:</strong> Trabalhar vários grupos musculares simultaneamente.<br>
+<strong>Exercícios:</strong> Utilizar halteres, barras e kettlebells para exercícios como supino, agachamento e levantamento terra.<br>
+<strong>Estrutura:</strong> Priorizar exercícios que exijam estabilização e coordenação.<br>
 
 <strong>Cardio:</strong><br>
-Objetivo: Melhorar a resistência cardiovascular.<br>
-Exercícios: Inclui atividades como corrida, ciclismo ou remo.<br>
-Estrutura: Alternar entre sessões de cardio de baixa intensidade e alta intensidade.<br>
+<strong>Objetivo:</strong> Melhorar a resistência cardiovascular.<br>
+<strong>Exercícios:</strong> Inclui atividades como corrida, ciclismo ou remo.<br>
+<strong>Estrutura:</strong>Alternar entre sessões de cardio de baixa intensidade e alta intensidade.<br>
 
 <strong>HIIT:</strong><br>
-Objetivo: Promover a queima de gordura e melhorar a capacidade cardiovascular.<br>
-Exercícios: Alternar entre períodos curtos de exercícios intensos e períodos de descanso.<br>
-Estrutura: Sessões de 20-30 minutos, incluindo exercícios como burpees, sprints e saltos.<br>
+<strong>Objetivo: </strong>Promover a queima de gordura e melhorar a capacidade cardiovascular.<br>
+<strong>Exercícios:</strong> Alternar entre períodos curtos de exercícios intensos e períodos de descanso.<br>
+<strong>Estrutura: </strong>Sessões de 20-30 minutos, incluindo exercícios como burpees, sprints e saltos.<br>
 
 
  ## Objetivos do Cliente<br>
-<strong>Objetivo:</strong> Adaptar o plano de treino para alinhar com os objetivos específicos do cliente.<br>
-<strong>O que adicionar:</strong>
+<strong>Objetivo: Adaptar o plano de treino para alinhar com os objetivos específicos do cliente.<br>
+O que adicionar:</strong>
 <br>
 <strong>Perda de Peso:</strong><br>
-Estrutura: Focar em treinos com alta queima calórica, como HIIT e sessões prolongadas de cardio.<br>
-Exercícios: Incluir movimentos que engajem grandes grupos musculares e aumentem o metabolismo.
+<strong>Estrutura:</strong> Focar em treinos com alta queima calórica, como HIIT e sessões prolongadas de cardio.<br>
+<strong>Exercícios:</strong> Incluir movimentos que engajem grandes grupos musculares e aumentem o metabolismo.
 <br>
 <strong>Ganho de Massa Muscular:</strong><br>
-Estrutura: Priorizar exercícios de resistência e treinos com pesos livres e máquinas.<br>
-Exercícios: Focar em exercícios compostos e técnicas avançadas como drop sets e supersets.
+<strong>Estrutura:</strong> Priorizar exercícios de resistência e treinos com pesos livres e máquinas.<br>
+<strong>Exercícios:</strong> Focar em exercícios compostos e técnicas avançadas como drop sets e supersets.
 <br>
 <strong>Aumento de Resistência:</strong><br>
-Estrutura: Combinar cardio prolongado com treinamento funcional.<br>
-Exercícios: Incluir exercícios de resistência com altas repetições e períodos mais longos de atividade cardiovascular.
+<strong>Estrutura:</strong> Combinar cardio prolongado com treinamento funcional.<br>
+<strong>Exercícios: </strong>Incluir exercícios de resistência com altas repetições e períodos mais longos de atividade cardiovascular.
 <br>
 <strong>Melhoria na Mobilidade e Flexibilidade:</strong><br>
-Estrutura: Incorporar sessões de alongamento, yoga e exercícios de mobilidade.<br>
-Exercícios: Focar em movimentos que aumentem a amplitude de movimento e reduzam rigidez.<br>
+<strong>Estrutura:</strong> Incorporar sessões de alongamento, yoga e exercícios de mobilidade.<br>
+<strong>Exercícios:</strong> Focar em movimentos que aumentem a amplitude de movimento e reduzam rigidez.<br>
 
  ## Histórico de Treinamento<br>
 <strong>Objetivo:</strong> Adaptar o plano de treino com base no nível de experiência do cliente.<br>
 <strong>O que adicionar:</strong><br>
 
 <strong>Iniciante:</strong><br>
-Estrutura: Introduzir exercícios básicos e técnicas fundamentais.<br>
-Exercícios: Incluir exercícios com baixa complexidade e foco em forma correta.
+<strong>Estrutura:</strong> Introduzir exercícios básicos e técnicas fundamentais.<br>
+<strong>Exercícios:</strong> Incluir exercícios com baixa complexidade e foco em forma correta.
 <br>
 <strong>Intermediário:</strong><br>
-Estrutura: Introduzir variações de exercícios e progressões de carga.<br>
-Exercícios: Incluir uma combinação de exercícios compostos e isolados, com aumento gradual da intensidade.
+<strong>Estrutura:</strong> Introduzir variações de exercícios e progressões de carga.<br>
+<strong>Exercícios:</strong> Incluir uma combinação de exercícios compostos e isolados, com aumento gradual da intensidade.
 <br>
 <strong>Avançado:</strong><br>
-Estrutura: Incorporar técnicas avançadas e variações para maximizar os resultados.<br>
-Exercícios: Utilizar técnicas como supersets, drop sets, e treinamento em pirâmide.<br>
+<strong>Estrutura:</strong> Incorporar técnicas avançadas e variações para maximizar os resultados.<br>
+<strong>Exercícios:</strong> Utilizar técnicas como supersets, drop sets, e treinamento em pirâmide.<br>
 
 6. ## Limitações Físicas e Lesões<br>
-<strong>Objetivo:</strong> Ajustar o plano para acomodar limitações físicas e lesões do cliente.<br>
-<strong>O que adicionar:</strong><br>
+<strong>Objetivo:Ajustar o plano para acomodar limitações físicas e lesões do cliente.<br>
+O que adicionar:</strong><br>
 
 <strong>Lesões Recorrentes:</strong><br>
-Estrutura: Adaptar os exercícios para evitar agravamento da lesão.<br>
-Exercícios: Incluir exercícios de reabilitação e movimentos modificados que minimizem o impacto na área afetada.
+<strong>Estrutura:</strong> Adaptar os exercícios para evitar agravamento da lesão.<br>
+<strong>Exercícios:</strong> Incluir exercícios de reabilitação e movimentos modificados que minimizem o impacto na área afetada.
 <br>
 <strong>Condições Médicas:</strong><br>
-Estrutura: Ajustar os exercícios conforme as orientações médicas.<br>
-Exercícios: Incorporar atividades seguras e apropriadas para a condição específica do cliente.<br>
+<strong>Estrutura: </strong>Ajustar os exercícios conforme as orientações médicas.<br>
+<strong>Exercícios:</strong>Incorporar atividades seguras e apropriadas para a condição específica do cliente.<br>
 
 7. ## Preferências Pessoais<br>
-<strong>Objetivo:</strong> Ajustar o plano para alinhar com as preferências do cliente.<br>
-<strong>O que adicionar:</strong><br>
+<strong>Objetivo: Ajustar o plano para alinhar com as preferências do cliente.<br>
+O que adicionar:</strong><br>
 <br>
 <strong>Preferência por Tipo de Exercício:</strong><br>
-Estrutura: Aumentar a proporção de exercícios que o cliente gosta.<br>
-Exercícios: Adaptar o plano para incluir mais dos tipos de exercício preferidos pelo cliente.<br>
+<strong>Estrutura: </strong>Aumentar a proporção de exercícios que o cliente gosta.<br>
+<strong>Exercícios: </strong>Adaptar o plano para incluir mais dos tipos de exercício preferidos pelo cliente.<br>
 
 <strong>Tempo Disponível:</strong><br>
-Estrutura: Ajustar a duração e a intensidade dos treinos conforme o tempo disponível do cliente.<br>
-Exercícios: Criar treinos eficientes e compactos se o tempo for limitado.<br>
+<strong>Estrutura:</strong> Ajustar a duração e a intensidade dos treinos conforme o tempo disponível do cliente.<br>
+<strong>Exercícios:</strong> Criar treinos eficientes e compactos se o tempo for limitado.<br>
 
 8. ## Nutrição e Recuperação<br>
-<strong>Objetivo:</strong> Complementar o plano de treino com orientações sobre nutrição e recuperação.<br.>
-<strong>O que adicionar:</strong><br>
+<strong>Objetivo: Complementar o plano de treino com orientações sobre nutrição e recuperação.<br.>
+O que adicionar:</strong><br>
 
 <strong>Nutrição:</strong><br>
-Orientações Gerais: Oferecer recomendações básicas sobre alimentação balanceada para suportar os objetivos do cliente.<br>
-Suplementação: Considerar sugestões sobre suplementos se apropriado para o objetivo e biotipo.<br>
+<strong>Orientações Gerais:</strong> Oferecer recomendações básicas sobre alimentação balanceada para suportar os objetivos do cliente.<br>
+<strong>Suplementação:</strong> Considerar sugestões sobre suplementos se apropriado para o objetivo e biotipo.<br>
 
 <strong>Recuperação:</strong><br>
-Estrutura: Incluir recomendações para recuperação, como alongamentos, massagens e técnicas de relaxamento.<br>
-Sono: Enfatizar a importância de uma boa qualidade de sono para a recuperação muscular e desempenho.<br>
+<strong>Estrutura:</strong> Incluir recomendações para recuperação, como alongamentos, massagens e técnicas de relaxamento.<br>
+<strong>Sono:</strong> Enfatizar a importância de uma boa qualidade de sono para a recuperação muscular e desempenho.<br>
 
 9. ## Avaliação e Progressão<br>
-<strong>Objetivo:</strong> Estabelecer critérios para avaliar e ajustar o plano conforme o progresso do cliente.<br>
-<strong>O que adicionar:</strong><br>
+<strong>Objetivo: Estabelecer critérios para avaliar e ajustar o plano conforme o progresso do cliente.<br>
+O que adicionar:</strong><br>
 
 <strong>Avaliações Regulares:</strong><br>
-Estrutura: Definir pontos de checagem para avaliar o progresso, como testes de força, resistência ou composição corporal.<br>
-Feedback: Solicitar feedback do cliente sobre o plano e fazer ajustes conforme necessário.
+<strong>Estrutura:</strong> Definir pontos de checagem para avaliar o progresso, como testes de força, resistência ou composição corporal.<br>
+<strong>Feedback:</strong> Solicitar feedback do cliente sobre o plano e fazer ajustes conforme necessário.
 <br>
 <strong>Ajustes de Treino:</strong><br>
-Estrutura: Revisar e ajustar o plano de treino com base nos resultados das avaliações e no progresso observado.<br>
-Meta de Ajuste: Fazer alterações para manter o desafio e a eficácia do treino.<br>
+<strong>Estrutura:</strong> Revisar e ajustar o plano de treino com base nos resultados das avaliações e no progresso observado.<br>
+<strong>Meta de Ajuste:</strong> Fazer alterações para manter o desafio e a eficácia do treino.<br>
 
 10. ## Equipamentos Disponíveis<br>
-<strong>Objetivo:</strong> Adaptar o plano de treino conforme os equipamentos disponíveis para o cliente.<br>
-<strong>O que adicionar:</strong><br>
+<strong>Objetivo: Adaptar o plano de treino conforme os equipamentos disponíveis para o cliente.<br>
+O que adicionar:</strong><br>
 
 <strong>Treino em Casa:</strong><br>
-Estrutura: Criar planos com exercícios que podem ser feitos com equipamento mínimo ou com o peso do próprio corpo.<br>
-Exercícios: Utilizar itens domésticos ou equipamentos básicos como halteres, bandas elásticas, e kettlebells.
+<strong>Estrutura:</strong> Criar planos com exercícios que podem ser feitos com equipamento mínimo ou com o peso do próprio corpo.<br>
+<strong>Exercícios:</strong> Utilizar itens domésticos ou equipamentos básicos como halteres, bandas elásticas, e kettlebells.
 <br>
 <strong>Academia Completa:</strong><br>
-Estrutura: Aproveitar a variedade de equipamentos disponíveis para um plano mais diversificado.<br>
-Exercícios: Incluir o uso de máquinas, pesos livres e acessórios variados para um treino completo e bem equilibrados.
+<strong>Estrutura:</strong> Aproveitar a variedade de equipamentos disponíveis para um plano mais diversificado.<br>
+<strong>Exercícios:</strong> Incluir o uso de máquinas, pesos livres e acessórios variados para um treino completo e bem equilibrados.
 <br>
 
 ## Resultado Esperado<br>
