@@ -111,14 +111,15 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
-2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. **Ajuste o plano** para alinhar com os objetivos do cliente e seu nível de experiência.
-5. **Adapte o treino** conforme limitações físicas e lesões, se houver.
-6. **Ajuste o plano** com base nas preferências pessoais e no tempo disponível.
-7. **Inclua recomendações** sobre nutrição e recuperação para complementar o treino.
-8. **Estabeleça avaliações** regulares e ajuste o plano conforme o progresso do cliente.
-9. **Adapte o plano** conforme os equipamentos disponíveis.
+2. **Considere o Peso e Altura** do cliente para ajustar o plano de treino e a intensidade dos exercícios.
+3. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
+4. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
+5. **Ajuste o plano** para alinhar com os objetivos do cliente e seu nível de experiência.
+6. **Adapte o treino** conforme limitações físicas e lesões, se houver.
+7. **Ajuste o plano** com base nas preferências pessoais e no tempo disponível.
+8. **Inclua recomendações** sobre nutrição e recuperação para complementar o treino.
+9. **Estabeleça avaliações** regulares e ajuste o plano conforme o progresso do cliente.
+10. **Adapte o plano** conforme os equipamentos disponíveis.
 
 ---
 
@@ -134,6 +135,7 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ## 🎯 Prompt de Resposta Proposto
 
 <strong>Biotipo:<br> 
+Peso e Altura:<br>
 Periodização:<br> 
 Tipo de Exercicio:<br> 
 Objetivo: <br>
@@ -180,6 +182,19 @@ O treino deve focar em:</strong><br>
 <br>
 <strong>Volume e Frequência:</strong> Aumentar a frequência e o volume de treino para maximizar o gasto energético.
 
+### Peso e Altura<br>
+<strong>Objetivo: Usar o peso e a altura para ajustar a intensidade e o volume do treino, garantindo que o plano seja adequado às necessidades corporais do cliente.</strong><br>
+
+<strong>Peso:</strong>
+<strong>Peso Abaixo da Média:</strong> Ajustar o volume e intensidade para promover o ganho de massa muscular e evitar sobrecarga.<br>
+<strong>Peso na Média:</strong> Ajustar o plano conforme o biotipo e os objetivos do cliente, mantendo um equilíbrio entre força e cardio.<br>
+<strong>Peso Acima da Média:</strong> Incorporar exercícios cardiovasculares e ajustar o volume de treino para apoiar a perda de gordura e melhorar a resistência.<br>
+
+<strong>Altura:</strong><br>
+
+<strong>Altura Baixa:</strong> Ajustar o volume e a carga dos exercícios para evitar sobrecarga nas articulações e maximizar a eficácia dos treinos.<br>
+<strong>Altura Média:</strong> Ajustar conforme os objetivos do cliente e o biotipo, mantendo um plano equilibrado e adaptado.<br>
+<strong>Altura Alta:</strong> Considerar ajustes no posicionamento e na técnica dos exercícios para garantir a execução correta e evitar lesões.<br>
 
  ##  Dias de Treino por Semana
 
